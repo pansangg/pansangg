@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 <!--
 **EugSh1/EugSh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
