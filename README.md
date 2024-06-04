@@ -1,6 +1,2 @@
-### Skills
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
+# Skills ⚙️
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
