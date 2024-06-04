@@ -1,2 +1,6 @@
-### Hi there 👋
-- 🌱 I’m currently learning Javascript
+### Skills
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
