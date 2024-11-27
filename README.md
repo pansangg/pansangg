@@ -11,7 +11,7 @@
                     media="(prefers-color-scheme: dark)"
                 />
                 <source
-                    srcset="https://github-readme-stats.vercel.app/api?username=eugsh1&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github&hide_border=true"
+                    srcset="https://github-readme-stats.vercel.app/api?username=eugsh1&show_icons=true&theme=light&include_all_commits=true&rank_icon=github&hide_border=true"
                     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 />
                 <img
@@ -28,7 +28,7 @@
                     media="(prefers-color-scheme: dark)"
                 />
                 <source
-                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eugsh1&layout=compact&theme=dark&hide_border=true"
+                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eugsh1&layout=compact&theme=light&hide_border=true"
                     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
                 />
                 <img
