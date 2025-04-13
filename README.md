@@ -1,5 +1,5 @@
 # Skills ⚙️
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwindcss,express,prisma)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwindcss,express,hono,prisma&theme=dark)
 
 # Stats 📊
 <table style="width: 100%; table-layout: fixed">
