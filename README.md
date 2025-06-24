@@ -1,4 +1,3 @@
-# stats
 <table style="width: 100%; table-layout: fixed">
     <tr>
         <td style="width: 50%; text-align: center; border: none">
